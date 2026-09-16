@@ -82,7 +82,7 @@ An object-oriented car simulation with operations for starting, speeding up, slo
 
 ## Author
 
-**Aditya Shankar**
+**[Aditya Shankar](https://github.com/AdityaShankar990)**
 
 ## Internship
 
